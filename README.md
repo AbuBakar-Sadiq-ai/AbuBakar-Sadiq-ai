@@ -32,7 +32,7 @@ I am currently a BS Artificial Intelligence student with strong interests in:
 
 - Email: abubakarsadiq976@gmail.com  
 - LinkedIn:https://www.linkedin.com/in/abubakar-sadiq-9abc7def6  
-- GitHub: You're already here   
+  
 
 ---
 
