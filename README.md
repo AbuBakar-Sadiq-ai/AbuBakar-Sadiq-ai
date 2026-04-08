@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Abubakar Sadiq
 
-<!--
-**AbuBakar-Sadiq-ai/AbuBakar-Sadiq-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  About Me
+AI enthusiast & passionate programmer focused on building intelligent systems and solving real-world problems.
 
-Here are some ideas to get you started:
+I am currently a BS Artificial Intelligence student with strong interests in:
+- Machine Learning
+- Deep Learning
+- Software Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  Skills
+
+### Programming
+- C++
+- Python
+- HTML
+- CSS
+- Javascript
+
+##  Interests
+
+- Artificial Intelligence  
+- Machine Learning
+- Deep Learning
+- Coputer Vision  
+- Problem Solving    
+- Algorithms & DSA
+- ----
+## 📫 Connect With Me
+
+- Email: abubakarsadiq976@gmail.com  
+- LinkedIn:https://www.linkedin.com/in/abubakar-sadiq-9abc7def6  
+- GitHub: You're already here   
+
+---
+
