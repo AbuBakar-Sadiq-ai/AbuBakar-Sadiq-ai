@@ -24,6 +24,7 @@ I am currently a BS Artificial Intelligence student with strong interests in:
 - Artificial Intelligence  
 - Machine Learning
 - Deep Learning
+- Agentic AI
 - Coputer Vision  
 - Problem Solving    
 - Algorithms & DSA
